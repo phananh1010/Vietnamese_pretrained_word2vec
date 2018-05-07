@@ -17,7 +17,7 @@ miếu 0.632310509682
 hoàng_đế 0.63085693121  
 
 B. How to use  
-#Step 1 download/clone this github  
+#Step 1 download the Word2Vec model from think <a href="https://drive.google.com/open?id=10SmNJwPh6d7H7m3SaQoWEwmt06wz8Emd">link</a>  
 #Step 2 load the model  
 import gensim  
 model = gensim.models.Word2Vec.load('./model_vnnews_w2v')  
